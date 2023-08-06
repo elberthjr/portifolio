@@ -42,19 +42,19 @@
 }
 
 .information .job::before{
-    background-image: url('/assets/img/icons/user.png');
+    background-image: url('/Portifólio/assets/img/icons/user.png');
 }
 
 .information .location::before{
-    background-image: url('/assets/img/icons/location.png');
+    background-image: url('/Portifólio/assets/img/icons/location.png');
 }
 
 .information .email::before{
-    background-image: url('/assets/img/icons/email.png');
+    background-image: url('/Portifólio/assets/img/icons/email.png');
 }
 
 .information .phone::before{
-    background-image: url('/assets/img/icons/phone.png');
+    background-image: url('/Portifólio/assets/img/icons/phone.png');
 }
 
 @media only screen and (min-width: 768px){
