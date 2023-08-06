@@ -1,75 +1,63 @@
 {
-    "name": "Elberth Jr",
-    "photo": "https://github.com/account",
-    "job": "FullStack Developer",
-    "location": "São Roque - SP",
-    "phone": "(11) 97163-7179",
-    "email": "elberthasj@hotmail.com",
-    "skills": {
-      "hardSkills": [
-        {
-          "name": "Nodejs",
-          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
-        },
-        {
-          "name": "Java",
-          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/java.png"
-        },
-        {
-          "name": "Angular",
-          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/angular.png"
-        },
-        {
-          "name": "React",
-          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png"
-        },
-        {
-          "name": "Mongodb",
-          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/mongodb.png"
-        },
-        {
-          "name": "Postgresql",
-          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/postgresql.png"
-        }
-      ],
-      "softSkills": [
-        "Liderança",
-        "Trabalho em equipe",
-        "Flexibilidade",
-        "Organização"
-      ]
-    },
-    "languages": [
-      "Português BR",
-      "Inglês (Avancado)"
-    ],
-    "portfolio": [
+  "name": "Elberth Jr",
+  "photo": "",
+  "job": "FullStack Developer",
+  "location": "São Roque - SP",
+  "phone": "(11) 97163-7179",
+  "email": "elberthasj@hotmail.com",
+  "skills": {
+    "hardSkills": [
       {
-        "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-        "url": "https://github.com/RenanJPaula/js-developer-pokedex",
-        "github": true
+        "name": "Javascript",
+        "logo": "https://github.com/elberthjr/portifolio/blob/main/Portifólio/data/imgs/js.png"
       },
       {
-        "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-        "url": "https://github.com/RenanJPaula/js-developer-portfolio",
-        "github": true
+        "name": "CSS",
+        "logo": "https://github.com/elberthjr/portifolio/blob/main/Portifólio/data/imgs/css.png"
+      },
+      {
+        "name": "Html",
+        "logo": "https://github.com/elberthjr/portifolio/blob/main/Portifólio/data/imgs/css.png"
+      },
+      {
+        "name": "Python",
+        "logo": "https://github.com/elberthjr/portifolio/blob/main/Portifólio/data/imgs/python.png"
       }
+
     ],
-    "professionalExperience": [
-      {
-        "name": "Arquiteto de software / S3 BANK",
-        "period": "2022 - até o momento",
-        "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
-      },
-      {
-        "name": "Software Engineering Lead / DIO",
-        "period": "2021 - 2022",
-        "description": "Foi um grande prazer fazer parte deste time fantástico e poder contribuir com a transformação de tantas vidas."
-      },
-      {
-        "name": "CEO / Brain Machine",
-        "period": "2016 - 2021",
-        "description": "Anos incríveis ao lado de pessoas maravilhosas ajudando muitas empresas por todo o mundo."
-      }
+    "softSkills": [
+      "Liderança",
+      "Trabalho em equipe",
+      "Flexibilidade",
+      "Organização"
     ]
-  }
+  },
+  "languages": [
+    "Português BR",
+    "Inglês (Avancado)"
+  ],
+  "portfolio": [
+    {
+      "name": "Pokedex DIO",
+      "url": "https://github.com/elberthjr/pokedex",
+      "github": true
+    },
+    {
+      "name": "Imersão Dev - Alura ",
+      "url": "https://github.com/elberthjr/imersaodev-portifolio",
+      "github": true
+    }
+  ],
+  "professionalExperience": [
+    {
+      "name": "Instriutor de Informática",
+      "period": "02/2023 - até o momento",
+      "description": "Instrutor de cursos de Informática Básica e de Desenvolvedor de Sistemas e Games."
+    },
+    {
+      "name": "Buffet Attendant - MSC Cruises",
+      "period": "07/2019 - 12/2019",
+      "description": "Experiencia na minha antiga Area, porém onde eu mais desenvolvi o meu Inglês."
+    }
+  ]
+}
