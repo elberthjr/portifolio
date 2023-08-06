@@ -1,0 +1,63 @@
+{
+  "name": "Elberth Jr",
+  "photo": "https://avatars.githubusercontent.com/elberthjr",
+  "job": "FullStack Developer",
+  "location": "São Roque - SP",
+  "phone": "(11) 97163-7179",
+  "email": "elberthasj@hotmail.com",
+  "skills": {
+    "hardSkills": [
+      {
+        "name": "Javascript",
+        "logo": "https://raw.githubusercontent.com/elberthjr/portifolio/main/Portifólio/data/imgs/js.png"
+      },
+      {
+        "name": "CSS",
+        "logo": "https://raw.githubusercontent.com/elberthjr/portifolio/main/Portifólio/data/imgs/css.png"
+      },
+      {
+        "name": "Html",
+        "logo": "https://raw.githubusercontent.com/elberthjr/portifolio/main/Portifólio/data/imgs/html.png"
+      },
+      {
+        "name": "Python",
+        "logo": "https://raw.githubusercontent.com/elberthjr/portifolio/main/Portifólio/data/imgs/python.png"
+      }
+
+    ],
+    "softSkills": [
+      "Liderança",
+      "Trabalho em equipe",
+      "Flexibilidade",
+      "Organização"
+    ]
+  },
+  "languages": [
+    "Português BR",
+    "Inglês (Avancado)"
+  ],
+  "portfolio": [
+    {
+      "name": "Pokedex DIO",
+      "url": "https://github.com/elberthjr/pokedex",
+      "github": true
+    },
+    {
+      "name": "Imersão Dev - Alura ",
+      "url": "https://github.com/elberthjr/imersaodev-portifolio",
+      "github": true
+    }
+  ],
+  "professionalExperience": [
+    {
+      "name": "Instriutor de Informática",
+      "period": "02/2023 - até o momento",
+      "description": "Instrutor de cursos de Informática Básica e de Desenvolvedor de Sistemas e Games."
+    },
+    {
+      "name": "Buffet Attendant - MSC Cruises",
+      "period": "07/2019 - 12/2019",
+      "description": "Experiencia na minha antiga Area, porém onde eu mais desenvolvi o meu Inglês."
+    }
+  ]
+}
