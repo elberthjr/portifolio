@@ -1,12 +1,16 @@
 {
   "name": "Elberth Jr",
   "photo": "https://avatars.githubusercontent.com/elberthjr",
-  "job": "FullStack Developer",
+  "job": "Data Analyst / Back-end Developer",
   "location": "São Roque - SP",
   "phone": "(11) 97163-7179",
   "email": "elberthasj@hotmail.com",
   "skills": {
     "hardSkills": [
+      {
+        "name": "Python",
+        "logo": "https://raw.githubusercontent.com/elberthjr/portifolio/main/data/imgs/python.png"
+      },
       {
         "name": "Javascript",
         "logo": "https://raw.githubusercontent.com/elberthjr/portifolio/main/data/imgs/js.png"
@@ -18,12 +22,8 @@
       {
         "name": "Html",
         "logo": "https://raw.githubusercontent.com/elberthjr/portifolio/main/data/imgs/html.png"
-      },
-      {
-        "name": "Python",
-        "logo": "https://raw.githubusercontent.com/elberthjr/portifolio/main/data/imgs/python.png"
       }
-
+      
     ],
     "softSkills": [
       "Liderança",
@@ -37,6 +37,11 @@
     "Inglês (Avancado)"
   ],
   "portfolio": [
+    {
+      "name": "Relatório sample financials",
+      "url": "https://github.com/elberthjr/desafio_power_bi_dio",
+      "github": true
+    }, 
     {
       "name": "Pokedex DIO",
       "url": "https://github.com/elberthjr/pokedex",
