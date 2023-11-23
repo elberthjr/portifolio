@@ -12,6 +12,14 @@
         "logo": "https://raw.githubusercontent.com/elberthjr/portifolio/main/data/imgs/python.png"
       },
       {
+        "name": "Django",
+        "logo": "https://raw.githubusercontent.com/elberthjr/portifolio/main/data/imgs/django.png"
+      },
+      {
+        "name": "PowerBI",
+        "logo": "https://raw.githubusercontent.com/elberthjr/portifolio/main/data/imgs/powerbi.png"
+      },
+      {
         "name": "Javascript",
         "logo": "https://raw.githubusercontent.com/elberthjr/portifolio/main/data/imgs/js.png"
       },
@@ -23,6 +31,7 @@
         "name": "Html",
         "logo": "https://raw.githubusercontent.com/elberthjr/portifolio/main/data/imgs/html.png"
       }
+      
       
     ],
     "softSkills": [
@@ -38,6 +47,11 @@
   ],
   "portfolio": [
     {
+      "name": "Sistema Interativa - CRUD com Python",
+      "url": "https://github.com/elberthjr/SistemaInterativa",
+      "github": true
+    },
+    {
       "name": "Relatório sample financials",
       "url": "https://github.com/elberthjr/desafio_power_bi_dio",
       "github": true
@@ -46,12 +60,8 @@
       "name": "Pokedex DIO",
       "url": "https://github.com/elberthjr/pokedex",
       "github": true
-    },
-    {
-      "name": "Imersão Dev - Alura ",
-      "url": "https://github.com/elberthjr/imersaodev-portifolio",
-      "github": true
     }
+    
   ],
   "professionalExperience": [
     {
