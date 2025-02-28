@@ -41,11 +41,6 @@
   ],
   "portfolio": [
     {
-      "name": "Sistema Interativa - CRUD com Python",
-      "url": "https://github.com/elberthjr/SistemaInterativa",
-      "github": true
-    },
-    {
       "name": "Relatório sample financials",
       "url": "https://github.com/elberthjr/desafio_power_bi_dio",
       "github": true
@@ -59,13 +54,13 @@
   ],
   "professionalExperience": [
     {
-      "name": "Assistente Técnico da Informação | TOTVS Protheus",
-      "period": "03/2024 - até o momento",
+      "name": "Analista de Suporte Junior",
+      "period": "03/2024 - Atualmente",
       "description": "Trabalho de Suporte Técnico na área de Informática, com suporte no ERP TOTVS Protheus."
     },
     {
       "name": "Instrutor de Informática",
-      "period": "02/2023 - 02/2024",
+      "period": "02/2023 - Atualmente",
       "description": "Instrutor de cursos de Informática Básica e de Desenvolvedor de Sistemas e Games."
     },
     {
